@@ -70,6 +70,6 @@ This project uses **machine learning** to detect fraudulent credit card transact
 
 ## 🙌 Author
 
-This project is built and maintained by [Your Name]  
+This project is built and maintained by [JAMSHED ALI]  
 Feel free to fork, improve, and contribute!
 
